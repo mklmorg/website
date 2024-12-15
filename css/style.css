@@ -87,7 +87,7 @@ main {
   justify-content: center;
   align-content: center;
   padding: 2em;
-  height: 100vh;
+  height: 100dvh;
   text-align: center;
 
   font-size: 1.5rem;
