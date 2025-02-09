@@ -79,6 +79,7 @@ body {
   font-style: italic;
   background-color: hsl(0, 0%, 100%);
   margin: 0;
+  padding-bottom: 4rem;
 
   background: url('../assets/top-left-twig.svg') no-repeat left top, 
     url('../assets/top-right-twig.svg') no-repeat right top;
@@ -176,7 +177,7 @@ p {
   width: 100%;
   background-color: hsl(0, 0%, 5%);
   color: hsl(0, 0%, 95%);
-  padding-block: 3rem;
+  padding-block: 5rem;
 }
 
 .slots {
